@@ -1870,11 +1870,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\bang0\\Code_C#\\CodeFirst_db\\DuAn01\\DuAn01\\DuAn01.csproj",
+      "projectUniqueName": "C:\\Users\\bang0\\Code_C#\\DuAn1-CodeDi-\\DuAn01\\DuAn01\\DuAn01.csproj",
       "projectName": "DuAn01",
-      "projectPath": "C:\\Users\\bang0\\Code_C#\\CodeFirst_db\\DuAn01\\DuAn01\\DuAn01.csproj",
+      "projectPath": "C:\\Users\\bang0\\Code_C#\\DuAn1-CodeDi-\\DuAn01\\DuAn01\\DuAn01.csproj",
       "packagesPath": "C:\\Users\\bang0\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\bang0\\Code_C#\\CodeFirst_db\\DuAn01\\DuAn01\\obj\\",
+      "outputPath": "C:\\Users\\bang0\\Code_C#\\DuAn1-CodeDi-\\DuAn01\\DuAn01\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\bang0\\AppData\\Roaming\\NuGet\\NuGet.Config",

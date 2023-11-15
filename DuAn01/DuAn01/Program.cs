@@ -14,6 +14,7 @@ namespace DuAn01
             // see https://aka.ms/applicationconfiguration.
             ApplicationConfiguration.Initialize();
             Application.Run(new fLogin());
+            //test push code
         }
     }
 }
