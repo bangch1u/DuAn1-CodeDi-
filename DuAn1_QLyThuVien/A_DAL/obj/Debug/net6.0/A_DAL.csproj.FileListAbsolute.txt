@@ -1,0 +1,14 @@
+C:\Users\bang0\Code_C#\CodeFirst_db\DuAn1_QLyThuVien\A_DAL\obj\Debug\net6.0\A_DAL.csproj.AssemblyReference.cache
+C:\Users\bang0\Code_C#\CodeFirst_db\DuAn1_QLyThuVien\A_DAL\obj\Debug\net6.0\A_DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bang0\Code_C#\CodeFirst_db\DuAn1_QLyThuVien\A_DAL\obj\Debug\net6.0\A_DAL.AssemblyInfoInputs.cache
+C:\Users\bang0\Code_C#\CodeFirst_db\DuAn1_QLyThuVien\A_DAL\obj\Debug\net6.0\A_DAL.AssemblyInfo.cs
+C:\Users\bang0\Code_C#\CodeFirst_db\DuAn1_QLyThuVien\A_DAL\obj\Debug\net6.0\A_DAL.csproj.CoreCompileInputs.cache
+C:\Users\bang0\Code_C#\CodeFirst_db\DuAn1_QLyThuVien\A_DAL\bin\Debug\net6.0\A_DAL.deps.json
+C:\Users\bang0\Code_C#\CodeFirst_db\DuAn1_QLyThuVien\A_DAL\bin\Debug\net6.0\A_DAL.runtimeconfig.json
+C:\Users\bang0\Code_C#\CodeFirst_db\DuAn1_QLyThuVien\A_DAL\bin\Debug\net6.0\A_DAL.dll
+C:\Users\bang0\Code_C#\CodeFirst_db\DuAn1_QLyThuVien\A_DAL\bin\Debug\net6.0\A_DAL.pdb
+C:\Users\bang0\Code_C#\CodeFirst_db\DuAn1_QLyThuVien\A_DAL\obj\Debug\net6.0\A_DAL.dll
+C:\Users\bang0\Code_C#\CodeFirst_db\DuAn1_QLyThuVien\A_DAL\obj\Debug\net6.0\refint\A_DAL.dll
+C:\Users\bang0\Code_C#\CodeFirst_db\DuAn1_QLyThuVien\A_DAL\obj\Debug\net6.0\A_DAL.pdb
+C:\Users\bang0\Code_C#\CodeFirst_db\DuAn1_QLyThuVien\A_DAL\obj\Debug\net6.0\A_DAL.genruntimeconfig.cache
+C:\Users\bang0\Code_C#\CodeFirst_db\DuAn1_QLyThuVien\A_DAL\obj\Debug\net6.0\ref\A_DAL.dll

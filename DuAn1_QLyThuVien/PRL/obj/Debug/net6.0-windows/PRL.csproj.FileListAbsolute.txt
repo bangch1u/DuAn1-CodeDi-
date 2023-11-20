@@ -1,0 +1,7 @@
+C:\Users\bang0\Code_C#\CodeFirst_db\DuAn1_QLyThuVien\PRL\obj\Debug\net6.0-windows\PRL.csproj.AssemblyReference.cache
+C:\Users\bang0\Code_C#\CodeFirst_db\DuAn1_QLyThuVien\PRL\obj\Debug\net6.0-windows\PRL.Form1.resources
+C:\Users\bang0\Code_C#\CodeFirst_db\DuAn1_QLyThuVien\PRL\obj\Debug\net6.0-windows\PRL.csproj.GenerateResource.cache
+C:\Users\bang0\Code_C#\CodeFirst_db\DuAn1_QLyThuVien\PRL\obj\Debug\net6.0-windows\PRL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bang0\Code_C#\CodeFirst_db\DuAn1_QLyThuVien\PRL\obj\Debug\net6.0-windows\PRL.AssemblyInfoInputs.cache
+C:\Users\bang0\Code_C#\CodeFirst_db\DuAn1_QLyThuVien\PRL\obj\Debug\net6.0-windows\PRL.AssemblyInfo.cs
+C:\Users\bang0\Code_C#\CodeFirst_db\DuAn1_QLyThuVien\PRL\obj\Debug\net6.0-windows\PRL.csproj.CoreCompileInputs.cache
